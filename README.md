@@ -3,6 +3,6 @@
 
 ## Screenshot
 
-![Project screenshot](https://drive.google.com/file/d/1viLmChUen5C6wJXMl_yxDFuhu4iD4O23/view?usp=drive_link)
+![Project screenshot](Screenshot 2024-07-09 170844.png)
 
 
